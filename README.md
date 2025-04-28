@@ -1,16 +1,66 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWs4a2N0MWoydnk4MDZsNGhhMGNzbDJkd2ZlZW1pbHk0NW53aGticiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A8Uo4id6WCk8rJkJk5/giphy.gif" width="1000px">
+</p>
 
-<!--
-**daniel0ku/daniel0ku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 🔧 Welcome to Daniel's Data Garage
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Data Scientist** | **Bionengineering Background**
+
+*"It’s not just about the speed... it’s about the data behind it."* 
+
+Where raw data gets a full tune-up, and models are built for speed and precision.
+
+## 👨‍💻 About Me
+
+After completing my degree in Bioengineering, I realized I was more drawn to the power of data than the lab. 🚀
+I dove into data science, building models, deploying APIs, and solving real-world problems with code under the hood.
+One of my proudest builds was a machine learning solution paired with a FastAPI interface — fast, accessible, and ready for action. 🏎️
+
+## 🚀 Favorite Datat Science Memes
+Here are some of my favorite data science memes that perfectly capture the joys and challenges of the field:
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Unmasking Machine Learning</strong><br>
+      A classic twist where Machine Learning is revealed to be just Statistics in disguise.<br><br>
+      <img src="https://vokallond.com/wp-content/uploads/2023/09/Machine-learning-vs-statistics.png" width="225px">
+    </td>
+    <td align="center">
+      <strong>Perception vs. Reality</strong><br>
+      What people think data science is: 90% machine learning. Reality: 90% data cleaning.<br><br>
+      <img src="https://img-9gag-fun.9cache.com/photo/a4Ey7od_700bwp.webp" width="300px">
+    </td>
+    <td align="center">
+      <strong>The Weekend Effect</strong><br>
+      Leaving code on Friday: "I'll finish this on Monday." Monday: "What does this mean?"<br><br>
+      <img src="https://datasciencedojo.com/wp-content/uploads/16-995x1030.jpeg" width="300px">
+    </td>
+  </tr>
+</table>
+
+
+
+## 🛠️ Skills
+- Programming: Python, SQL
+- Libraries: Pandas, Scikit-learn, LightGBM, XGBoost, Matplotlib
+- Tools: Git, Docker, FastAPI
+- Machine Learning: Supervised Learning, Feature Engineering, Model Evaluation
+- Data Analysis: EDA, Data Visualization
+
+## 📂 Projects
+- [Home Credit Default Risk Prediction]([link-to-your-project](https://www.kaggle.com/competitions/home-credit-default-risk/overview)): Predicting loan repayment issues using LightGBM and FastAPI.
+- [Other Project]([link-to-other-project](https://www.kaggle.com)): Short description of another project.
+
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/danielkurmel/)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white)](mailto:danielkurmel@gmail.com)
+
+
+## 🌱 Fun Facts
+- I love baking, especially perfecting my croissant recipe! 🥐
+- Big fan of making pizzas from scratch — dough, sauce, all homemade! 🍕
+- Lifelong Apple fan — MacBooks, iPhones, AirPods... all part of the garage! 🍏
+- Nothing beats a late-night ride with good music blasting. 🎶🚗
