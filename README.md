@@ -50,7 +50,7 @@ Here are some of my favorite data science memes that perfectly capture the joys 
 - Data Analysis: EDA, Data Visualization
 
 ## 📂 Projects
-- [Home Credit Default Risk Prediction]([link-to-your-project](https://www.kaggle.com/competitions/home-credit-default-risk/overview)): Predicting loan repayment issues using LightGBM and FastAPI.
+- [Home Credit Default Risk Prediction]([https://www.kaggle.com/competitions/home-credit-default-risk/overview](https://github.com/TuringCollegeSubmissions/dadanie-DS.v2.5.3.4.1.git)): Predicting loan repayment issues using LightGBM and FastAPI.
 - [Other Project]([link-to-other-project](https://www.kaggle.com)): Short description of another project.
 
 ## 📫 Contact Me
