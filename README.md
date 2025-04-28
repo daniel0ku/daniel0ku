@@ -52,6 +52,7 @@ Here are some of my favorite data science memes that perfectly capture the joys 
 ## 📂 Projects
 - [Home Credit Default Risk Prediction](https://github.com/TuringCollegeSubmissions/dadanie-DS.v2.5.3.4.1.git): Predicting loan repayment issues using LightGBM and FastAPI.
 - [Spaceship Titanic](https://github.com/TuringCollegeSubmissions/dadanie-DS.v2.5.3.3.5): Identifying patterns and anomalies, and use data-driven insights to locate and retrieve the displaced passengers.
+- [Travel Insurance Prediction](https://github.com/TuringCollegeSubmissions/dadanie-DS.v2.5.3.1.5): Develop a predictive model that can accurately determine whether a customer will purchase travel insurance based on their demographic and travel history data.
 
 ## 📫 Contact Me
 
