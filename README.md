@@ -56,8 +56,8 @@ Here are some of my favorite data science memes that perfectly capture the joys 
 
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/danielkurmel/)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white)](mailto:danielkurmel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielkurmel)
+[![Gmail](https://img.shields.io/badge/Gmail-danielkurmel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielkurmel@gmail.com)
 
 
 ## 🌱 Fun Facts
