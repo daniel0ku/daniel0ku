@@ -65,3 +65,5 @@ Here are some of my favorite data science memes that perfectly capture the joys 
 - Big fan of making pizzas from scratch — dough, sauce, all homemade! 🍕
 - Lifelong Apple fan — MacBooks, iPhones, AirPods... all part of the garage! 🍏
 - Nothing beats a late-night ride with good music blasting. 🎶🚗
+
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
