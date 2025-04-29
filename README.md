@@ -66,4 +66,4 @@ Here are some of my favorite data science memes that perfectly capture the joys 
 - Lifelong Apple fan — MacBooks, iPhones, AirPods... all part of the garage! 🍏
 - Nothing beats a late-night ride with good music blasting. 🎶🚗
 
-![Profile Views](https://komarev.com/ghpvc/?username=daniel0ku&color=blue)
+[![Daniel profile views](https://u8views.com/api/v1/github/profiles/86955125/views/day-week-month-total-count.svg)](https://u8views.com/github/daniel0ku)
