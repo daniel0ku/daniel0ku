@@ -50,9 +50,9 @@ Here are some of my favorite data science memes that perfectly capture the joys 
 - Data Analysis: EDA, Data Visualization
 
 ## 📂 Projects
-- [Home Credit Default Risk Prediction]([https://github.com/TuringCollegeSubmissions/dadanie-DS.v2.5.3.4.1.git](https://github.com/daniel0ku/data-science-projects/tree/927eb854a998ad3dd5c2bf3b9cae27fab6b43a29/home-credit-default-risk-project)): Predicting loan repayment issues using LightGBM and FastAPI.
+- [Home Credit Default Risk Prediction]([https://github.com/TuringCollegeSubmissions/dadanie-DS.v2.5.3.4.1.git](https://github.com/daniel0ku/data-science-projects/tree/927eb854a998ad3dd5c2bf3b9cae27fab6b43a29/home-credit-default-risk-project): Predicting loan repayment issues using LightGBM and FastAPI.
 - [Spaceship Titanic](https://github.com/daniel0ku/data-science-projects/tree/13ab45582416b50355519327c38d932c7ca05fe8/spaceship-titanic-project): Identifying patterns and anomalies, and use data-driven insights to locate and retrieve the displaced passengers.
-- [Travel Insurance Prediction]([https://github.com/TuringCollegeSubmissions/dadanie-DS.v2.5.3.1.5](https://github.com/daniel0ku/data-science-projects/tree/13ab45582416b50355519327c38d932c7ca05fe8/travel-insurance-project)): Develop a predictive model that can accurately determine whether a customer will purchase travel insurance based on their demographic and travel history data.
+- [Travel Insurance Prediction]([https://github.com/TuringCollegeSubmissions/dadanie-DS.v2.5.3.1.5](https://github.com/daniel0ku/data-science-projects/tree/13ab45582416b50355519327c38d932c7ca05fe8/travel-insurance-project): Develop a predictive model that can accurately determine whether a customer will purchase travel insurance based on their demographic and travel history data.
 
 ## 📫 Contact Me
 
