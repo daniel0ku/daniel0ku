@@ -50,9 +50,9 @@ Here are some of my favorite data science memes that perfectly capture the joys 
 - Data Analysis: EDA, Data Visualization
 
 ## 📂 Projects
-- [Home Credit Default Risk Prediction](https://github.com/daniel0ku/data-science-projects/tree/f5f58e5a75b5f560d05f4dd9585fbbdcc52d6e61/home-credit-default-risk-project): Predicting loan repayment issues using LightGBM and FastAPI.
-- [Spaceship Titanic](https://github.com/daniel0ku/data-science-projects/tree/f5f58e5a75b5f560d05f4dd9585fbbdcc52d6e61/spaceshit-titanic-project): Identifying patterns and anomalies, and use data-driven insights to locate and retrieve the displaced passengers.
-- [Travel Insurance Prediction](https://github.com/daniel0ku/data-science-projects/tree/9e622a69d7963e50fa66759f7fb0bcd3d6624c26/travel-insurance-project): Develop a predictive model that can accurately determine whether a customer will purchase travel insurance based on their demographic and travel history data.
+- [Home Credit Default Risk Prediction](https://github.com/daniel0ku/home-credit-default-risk-project.git): Predicting loan repayment issues using LightGBM and FastAPI.
+- [Spaceship Titanic](https://github.com/daniel0ku/spaceship-titanic-project.git): Identifying patterns and anomalies, and use data-driven insights to locate and retrieve the displaced passengers.
+- [Travel Insurance Prediction](https://github.com/daniel0ku/travel-insurance-project.git): Develop a predictive model that can accurately determine whether a customer will purchase travel insurance based on their demographic and travel history data.
 
 ## 📫 Contact Me
 
