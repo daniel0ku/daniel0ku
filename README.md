@@ -53,6 +53,7 @@ Here are some of my favorite data science memes that perfectly capture the joys 
 - [Home Credit Default Risk Prediction](https://github.com/daniel0ku/home-credit-default-risk-project.git): Predicting loan repayment issues using LightGBM and FastAPI.
 - [Spaceship Titanic](https://github.com/daniel0ku/spaceship-titanic-project.git): Identifying patterns and anomalies, and use data-driven insights to locate and retrieve the displaced passengers.
 - [Travel Insurance Prediction](https://github.com/daniel0ku/travel-insurance-project.git): Develop a predictive model that can accurately determine whether a customer will purchase travel insurance based on their demographic and travel history data.
+- [A/B Testing Analysis Projects](https://github.com/daniel0ku/ab-test-performance-analysis.git): Designing and evaluating experiments to compare multiple variations of a product feature, measuring their impact on key performance metrics to drive data-informed decisions.
 
 ## 📫 Contact Me
 
